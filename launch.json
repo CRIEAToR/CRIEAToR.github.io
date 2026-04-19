@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Launch Cosmos Checking",
+            "url": "http://localhost:5500/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
